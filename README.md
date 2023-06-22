@@ -16,7 +16,7 @@
 
 # 💫 About Me:
 - 👋 I’m Hari Venkata Satish
--  👀 Aspiring MERN Stack Developer | CCBPian at NxtWave | Python, SQL, React JS, Javascript
+-  👀 MERN Stack Developer | Python, Django Rest Framework, SQL, React JS, Javascript, Java, SpringBoot, Node JS
 - 🌱 I’m currently learning ...
 
 
