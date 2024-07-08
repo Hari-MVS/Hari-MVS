@@ -17,7 +17,6 @@
 # 💫 About Me:
 - 👋 I’m Hari Venkata Satish
 -  👀 MERN Stack Developer | Python, Django Rest Framework, SQL, React JS, Javascript, Java, SpringBoot, Node JS
--  👨‍💻Currently Working in 4S-Digi-Labs-Private-Limited as FULL-STACK-DEVELOPER
 
 
 ## 🌐 Socials:
