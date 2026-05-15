@@ -15,7 +15,7 @@
 </div>
 
 # 💫 About Me:
-- 👋 I’m Hari Venkata Satish
+- 👋 I’m Hari MVS
 -  👀 Software Developer | Oracle Cloud, EBS R12, Plsql, Python, Django Rest Framework, SQL, React JS, Javascript, Java, SpringBoot, Node JS
 
 
